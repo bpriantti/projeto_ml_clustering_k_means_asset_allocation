@@ -96,4 +96,14 @@ __Step 05:__ Construindo Portifolio com ativos do Cluster - 04:
 
 Foram selecionados ativos do Cluster 04, este que após análise de risco retorno possui melhor equilíbrio entre risco e retorno sobre o investimento.
 
-<img src="https://github.com/bpriantti/Projeto_ML_clustering_k_means_asset_allocation/blob/main/images/image-5.png?raw=true"  width="600">
+<img src="https://github.com/bpriantti/Projeto_ML_clustering_k_means_asset_allocation/blob/main/images/image-5.png?raw=true"  width="800">
+
+Como observados o portfólio desenvolvido supera o índice ibovespa no período histórico de dados, agora vamos analisar algumas métricas de risco vs retorno:
+
+|item  |Portifolio   |Benchmark|
+|---|---|---|
+|Retorno(%):   |WEGE3   |31.09    |
+|Sharpe R:     |EMBR3   |-37.07   |
+|CAGR:         |AZUL4   |-44.16   |
+|Anual Vol:    |CCRO3   |-18.58   |
+|Max Drawdown  |-32.76  |         |
