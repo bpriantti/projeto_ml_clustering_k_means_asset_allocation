@@ -102,8 +102,7 @@ Como observados o portfólio desenvolvido supera o índice ibovespa no período 
 
 |item  |Portifolio   |Benchmark|
 |---|---|---|
-|Retorno(%):   |WEGE3   |31.09    |
-|Sharpe R:     |EMBR3   |-37.07   |
-|CAGR:         |AZUL4   |-44.16   |
-|Anual Vol:    |CCRO3   |-18.58   |
-|Max Drawdown  |-32.76  |         |
+|Retorno(%):   |305.6%  |120.8%   |
+|Max Drawdown  |-32.71  |-50.24   |
+
+Como podemos observar o portfólio desenvolvido consegue superar o benchmark correndo um risco menor que o mesmo.
