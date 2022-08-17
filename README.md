@@ -1,11 +1,10 @@
-# Projeto ML clustering - k -means asset allocation
+# Projeto ML clustering - k-means asset allocation
 
 __Bussines Problem:__
-> Durante a rotina de investimentos torna-se importante a estimação da volatilidade tanto para estimar a variação de portfólios ou para operações estruturadas de compra ou venda de volatilidade, sendo necessário o desenvolvimento de modelos quantitativos para o forecasting futuro de movimentos de alta ou baixa de volatilidade.
+> Durante a rotina de investimentos torna-se importante para a construção de portfólios de ativos, a seleção de ativos para compor uma carteira de investimentos, sob essa ótica torna-se necessário encontrar características em comum entre os ativos para a composição de bons portfólios.
 
 __Objetivo:__   
-
-> Desenvolver um modelo quantitativo de Machine Learning, utilizando o framework sklearn, statsmodels para o forecasting da volatilidade em 15 dias do ativo PETR4 listado na bolsa de valores brasileira B3.
+> Desenvolver um modelo Machine Learning para clustering de ativos base utilizando as métricas CAGR x Anualizated Vol, para as ações listadas no índice IBRX100.
 
 __Autor:__  
    - Bruno Priantti.
