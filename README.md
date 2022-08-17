@@ -49,8 +49,8 @@ Index(['WEGE3', 'EMBR3', 'AZUL4', 'CCRO3', 'ECOR3', 'GOLL4',
        'EGIE3', 'EQTL3', 'TAEE11'],
       dtype='object')
       
-<img src="https://github.com/bpriantti/Projeto_ML_clustering_k_means_asset_allocation/blob/main/images/image-1.png?raw=true"  width="700" height ="600">
-<img src="https://github.com/bpriantti/Projeto_ML_clustering_k_means_asset_allocation/blob/main/images/image-2.png?raw=true"  width="700" height ="600">
-<img src="https://github.com/bpriantti/Projeto_ML_clustering_k_means_asset_allocation/blob/main/images/image-3.png?raw=true"  width="700" height ="600">
-<img src="https://github.com/bpriantti/Projeto_ML_clustering_k_means_asset_allocation/blob/main/images/image-4.png?raw=true"  width="700" height ="600">
-<img src="https://github.com/bpriantti/Projeto_ML_clustering_k_means_asset_allocation/blob/main/images/image-5.png?raw=true"  width="700" height ="600">
+<img src="https://github.com/bpriantti/Projeto_ML_clustering_k_means_asset_allocation/blob/main/images/image-1.png?raw=true"  >
+<img src="https://github.com/bpriantti/Projeto_ML_clustering_k_means_asset_allocation/blob/main/images/image-2.png?raw=true"  >
+<img src="https://github.com/bpriantti/Projeto_ML_clustering_k_means_asset_allocation/blob/main/images/image-3.png?raw=true"  width="500">
+<img src="https://github.com/bpriantti/Projeto_ML_clustering_k_means_asset_allocation/blob/main/images/image-4.png?raw=true"  >
+<img src="https://github.com/bpriantti/Projeto_ML_clustering_k_means_asset_allocation/blob/main/images/image-5.png?raw=true"  >
